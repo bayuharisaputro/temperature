@@ -14,5 +14,5 @@ Bayu Hari Saputro - 1541180160 - TI4C/04
 
 
 ## hasil aplikasi
-![](screenshot/hasilfarenheit.png)
+![](screenshot/hasilfarenheit2.png)
 ![](screenshot/hasilkelvin.png)
